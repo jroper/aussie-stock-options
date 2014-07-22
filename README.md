@@ -79,11 +79,19 @@ Note that this discount is regular income.  It is not eligable for a capital gai
 
 ### Further ~~tax~~ income
 
-Of course, the tax you pay when the option has vested is not the only time you will pay tax on the shares.  At some point in future, you may exercise your options, and at that point, or some later point, you may sell the shares.  When this happens, you will need to pay tax on the profit you made.  The profit you made at this point will be a capital gain.
+Of course, the tax you pay when the option has vested is not the only time you will pay tax on the shares.  At some point in future, you may exercise your options, and at that point, or some later point, you may sell the shares.  When this happens, you will need to pay tax on the gain from the fair market value at the time it vested, this is a capital gain.  Note the cost base for the gain here is not the strike price, but the fair market value when the option vested.  You have already paid tax on the gain from the strike price to the fair market value when it vested, you do not need to pay tax twice on that gain.
 
-If you held the share for more than a year, that is, if the time period between when you exercised the option and then sold the share is more than a year (is this true, or is it from when the option vested???), then you will be eligible for the 50% capital gains discount, and so you only have to count half of the profit towards your taxable income.  Otherwise you have to count the full profit towards your taxable income.
+If you held the share for more than a year, that is, if the time period between when you exercised the option and then sold the share is more than a year (is this true, or is it from when the option vested???), then you will be eligible for the 50% capital gains discount, and so you only have to count half of the capital gain towards your taxable income.  Otherwise you have to count the full capital gain towards your taxable income.
 
 You can see here that timing matters.  You can save a lot of money in tax if you exercise your options a year before you intend to sell them.  For this reason, you may decide to exercise your options early, before you have any opportunity to sell them.  You may decide to exercise your options as soon as they vest, just in case a liquidity event comes that allows you to sell your shares/vested options, so that you can claim the discount.  Obviously though we're now moving into the standard risks of trading shares, if you exercise your shares early, and the company goes broke, then you'll lose money.
+
+### When things happen together
+
+Sometimes the vested date, exercise date and the date you sell them are all the same.  This would be the case if the company is already listed, or maybe the company was acquired and there was a condition in your share scheme that caused all your options to vest at once in that event.  In this case, the market value when your options vest is the price you sell them for, so the whole gain from the discount to the sale price is considered regular income - there is no capital gain.
+
+### When things go sour
+
+If some of your options have vested, and you paid tax on them, but then the company goes broke, or if for some reason you decide not to exercise your options and you forfeit them, then you have made a loss on those options.  The discount that you once declared as income, you can now declare as a capital loss.
 
 ## Examples
 
