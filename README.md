@@ -37,13 +37,13 @@ So a typical employee share scheme might look like this:
 
 A final note, the Australian tax laws changed in 2009.  This document is only talking about shares received after the laws changed.
 
-## Some initial
+## Some terminology
 
 ### Discount
 
 When it comes to taxing stock options, one of the most important terms that you will encounter is the *discount*.  The discount is the difference between the strike price, and the value of the share.
 
-## Fair Market Value
+### Fair Market Value
 
 Another important term is the *fair market value*.  Since the company you're working for is a startup, the value of the share is not as straight forward as just looking at the price on the stock market, since your company is not yet listed on the stock market.  The shares however do a have a value, and during this stage of not being listed, this value is the fair market value.
 
@@ -75,7 +75,7 @@ The question actually isn't how much tax you pay, but how much income you declar
 
 If there were multiple times that options vested through the year (there probably were, since they vest monthly or quarterly), then you need to do this calculation for each month/quarter that the options vested, using the fair market value at that particular month or quarter.
 
-Note that this is regular income.  It is not eligable for a capital gains tax discount.
+Note that this discount is regular income.  It is not eligable for a capital gains tax discount.
 
 ### Further ~~tax~~ income
 
