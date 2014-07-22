@@ -128,6 +128,8 @@ Alice has declare the following income:
           = $1252.50 taxable income
 ```
 
+It's important to note here that the gains mentioned above are not the same as the cash in hand that Alice received - Alice paid $160 to exercise her options, and sold them at $3200, meaning she made $3040.  If you add the pre CGT discount gains from each year that she declared, they will total $3040.  So she has declared all the money she made, what makes it complex is that only part of that money made was declared in the year she made it, other parts were declared in prior years as the options vested.
+
 ## Other types of shares schemes
 
 ### Ordinary share grants
