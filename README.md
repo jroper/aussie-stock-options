@@ -53,9 +53,9 @@ In a typcial share scheme, you can ask your company what the fair market value o
 
 In Australia, there is this weird rule about a *capital gains discount*.  This rule is incredibly relevant to employee share schemes, so we must explain it here.
 
-When you receive income from an employer, that income counts towards your total taxable income, and then you pay tax on that.  When you make a profit from selling an asset (eg a house or shares), that profit counts towards your total taxable income, and then you pay tax on that.  Except, if you owned the asset for more than a year (you will often hear accountants say "a year and a day"), then you can divide the profit by two before adding it to your total taxable income.  Thus you end up paying at least half as much tax on the profit.  This is known as a *capital gains tax discount*.
+When you receive income from an employer, that income counts towards your total taxable income, and then you pay tax on that.  When you make a profit from selling an asset (eg a house or shares), this is called a capital gain, and that gain counts towards your total taxable income, and then you pay tax on that.  Except, if you owned the asset for more than a year (you will often hear accountants say "a year and a day"), then you can divide the capital gain by two before adding it to your total taxable income.  Thus you end up paying at least half as much tax on the capital gain.  This is known as a *capital gains tax discount*.
 
-This has important consequences to stock options, because is the mony you make off stock options regular income, or is it a captial gain?  If the latter, you can pay significantly less tax.  The answer to this question is where a lot of the complexity in stock options arises.
+This has important consequences to stock options, because is the money you make off stock options regular income, or is it a captial gain?  If the latter, you can pay significantly less tax.  The answer to this question is where a lot of the complexity in stock options arises.
 
 ## Paying tax
 
