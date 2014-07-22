@@ -41,7 +41,7 @@ A final note, the Australian tax laws changed in 2009.  This document is only ta
 
 ### Discount
 
-When it comes to taxing stock options, one of the most important terms that you will encounter is the *discount*.  The discount is the difference between the strike price, and the value of the share.
+When it comes to taxing stock options, one of the most important terms that you will encounter is the *discount*.  The discount is the difference between the strike price, and the value of the share.  It's effectively the discount you receive when you purchase the shares, that you wouldn't have otherwise got if you didn't have the stock option that lets you purchase it at that lower strike price.
 
 ### Fair Market Value
 
