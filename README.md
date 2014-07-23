@@ -53,13 +53,13 @@ When it comes to taxing stock options, one of the most important terms that you 
 
 Another important term is the *fair market value*.  Since the company you're working for is a startup, the value of the share is not as straight forward as just looking at the price on the stock market, since your company is not yet listed on the stock market.  The shares however do a have a value, and during this stage of not being listed, this value is the fair market value.
 
-In a typcial share scheme, you can ask your company what the fair market value of the share was at any time (or get a table of all the prices of the share), and they will give it to you.
+In a typcial share scheme, you can ask your company what the fair market value of the share was at any time (or get a table of all the prices of the share over time), and they will give it to you.
 
 ### Capital gains tax
 
 In Australia, there is this weird rule about a *capital gains discount*.  This rule is incredibly relevant to employee share schemes, so we must explain it here.
 
-When you receive income from an employer, that income counts towards your total taxable income, and then you pay tax on that.  When you make a profit from selling an asset (eg a house or shares), this is called a capital gain, and that gain counts towards your total taxable income, and then you pay tax on that.  Except, if you owned the asset for more than a year (you will often hear accountants say "a year and a day"), then you can divide the capital gain by two before adding it to your total taxable income.  Thus you end up paying at least half as much tax on the capital gain.  This is known as a *capital gains tax discount*.
+When you receive income from an employer, that income counts towards your total taxable income, and then you pay tax on that, like normal.  When you make a profit from selling an asset (eg an investment property or shares), this is called a capital gain, and that gain counts towards your total taxable income, and then you pay tax on that, like normal.  Except, if you owned the asset for more than a year (you will often hear accountants say "a year and a day"), then you can divide the capital gain by two before adding it to your total taxable income.  Thus you end up paying at least half as much tax on the capital gain.  This is known as a *capital gains tax discount*.
 
 This has important consequences to stock options, because is the money you make off stock options regular income, or is it a captial gain?  If the latter, you can pay significantly less tax.  The answer to this question is where a lot of the complexity in stock options arises.
 
@@ -97,11 +97,11 @@ You can see here that timing matters.  You can save a lot of money in tax if you
 
 ### When things happen together
 
-Sometimes the vested date, exercise date and the date you sell them are all the same.  This would be the case if the company is already listed, or maybe the company was acquired and there was a condition in your share scheme that caused all your options to vest at once in that event.  In this case, the market value when your options vest is the price you sell them for, so the whole gain from the discount to the sale price is considered regular income - there is no capital gain.
+Sometimes the vested date, exercise date and the date you sell them are all the same.  This might be the case if the company is already listed and you sell the shares as they vest, or maybe the company was acquired and there was a condition in your share scheme that caused all your options to vest at once in that event so you can sell them.  In this case, the market value when your options vest is the price you sell them for, so the whole gain from your strike price to the sale price (minus the initial purchase price of the options if there was one) is considered regular income - there is no capital gain, and so no capital gains tax discount.
 
 ### When things go sour
 
-If some of your options have vested, and you paid tax on them, but then the company goes broke, or if for some reason you decide not to exercise your options and you forfeit them, then you have made a loss on those options.  The discount that you once declared as income, you can now declare as a capital loss.
+If some of your options have vested, and you paid tax on them, but then the company goes broke, or if for some reason you decide not to exercise your options and you forfeit them, then you have made a loss on those options.  The discount that you once declared as income, you can now declare as a capital loss.  Note that what you declare here is the full discount.  If there was a initial purchase price for the options, do not subtract this from the discount when you claim the discount as a capital loss.
 
 ## Examples
 
