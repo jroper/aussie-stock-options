@@ -35,6 +35,12 @@ So a typical employee share scheme might look like this:
 * If you leave the company before the 4 years is up, you forfeit any unvested shares.  The vested portion you may exercise within a certain time period, for example, 90 days, otherwise you forfeit them as well.
 * At some point in future, maybe after 7 years, the options will expire and you will lose them if you haven't exercised them by that date.
 
+There are some other aspects of a typical employee share scheme offered in tech startups that may not be so interesting to you, but are important in certain areas of the tax law, if any of these points don't hold true, then parts of this document may not apply to you:
+
+* The options/shares are ordinary shares.  This begs the question, what is an extraordinary share?  The most common non ordinary share in tech startups is preferential shares.  Preferential shares mean when the company is sold, preferential share holders get the first piece of the pie, usually to the value of what they invested.  It's an insurance policy, if the company goes bad, they at least get what they put in back before anyone else makes money.  These types of shares are usually given to venture capitalists when they invest in the startup.  They are never given to employees.  There are a few other types of shares, but in a typical employee share scheme in tech startups, the shares are ordinary.
+* Your options/shares are not for more than 5% of the company or more than 5% of the voting rights.  Unless you are a founder of your company, your options are likely to only give you a fraction of a percent of the company.
+* The share scheme is granted to at least 75% of the Australian resident employees of the company.  This will be the case in a typical tech startup.
+
 A final note, the Australian tax laws changed in 2009.  This document is only talking about shares received after the laws changed.
 
 ## Some terminology
@@ -58,6 +64,10 @@ When you receive income from an employer, that income counts towards your total 
 This has important consequences to stock options, because is the money you make off stock options regular income, or is it a captial gain?  If the latter, you can pay significantly less tax.  The answer to this question is where a lot of the complexity in stock options arises.
 
 ## Paying tax
+
+### Foreign share schemes
+
+First of all, it's important to know that if your share scheme is for a foreign company, the rules are no different than for if they are for an Australian company.  If you are an Australian resident for tax purposes, you have all the same tax obligations regardless of what country the company you hold shares or stock options is in.  You may wonder how the ATO would ever know that you have shares or stock options in a foreign company, and the answer is they won't unless you tell them.  That said, if your company goes well, and then suddenly a million dollars lands in your Australian bank account, you can bet you'll have some tax auditors knocking on your door asking where that money came from.
 
 ### When you have to pay tax
 
