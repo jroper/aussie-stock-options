@@ -53,7 +53,7 @@ When it comes to taxing stock options, one of the most important terms that you 
 
 Another important term is the *fair market value*.  Since the company you're working for is a startup, the value of the share is not as straight forward as just looking at the price on the stock market, since your company is not yet listed on the stock market.  The shares however do a have a value, and during this stage of not being listed, this value is the fair market value.
 
-In a typcial share scheme, you can ask your company what the fair market value of the share was at any time (or get a table of all the prices of the share over time), and they will give it to you.
+In a typical share scheme, you can ask your company what the fair market value of the share was at any time (or get a table of all the prices of the share over time), and they will give it to you.
 
 ### Capital gains tax
 
